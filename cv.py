@@ -24,7 +24,7 @@ class Cv(DrawableElement):
 	HEADER_INDENT = 15
 
 	# COLORS
-	WHITE_4CH = (255, 255, 255, 0)
+	WHITE_4CH = (255, 255, 255, 255)
 	WHITE_3CH = (255, 255, 255)
 	WHITE_1CH = 255
 
